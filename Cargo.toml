@@ -1,5 +1,6 @@
 [package]
 name = "headers-rs"
+description = "print a simple commented-out 3-liner header with a custom name (passed as a command line argument"
 version = "0.1.0"
 authors = ["Rashid McMoodoo.eth <hacker@unpin.co>"]
 edition = "2021"
