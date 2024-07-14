@@ -1,0 +1,5 @@
+[package]
+name = "headers"
+version = "0.1.0"
+authors = ["Rashid McMoodoo.eth <hacker@unpin.co>"]
+edition = "2021"
