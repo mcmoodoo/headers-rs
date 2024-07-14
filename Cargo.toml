@@ -1,5 +1,9 @@
 [package]
-name = "headers"
+name = "headers-rs"
 version = "0.1.0"
 authors = ["Rashid McMoodoo.eth <hacker@unpin.co>"]
 edition = "2021"
+license = "MIT OR Apache-2.0"
+documentation = "https://github.com/mcmoodoo/headers-rs/blob/master/README.md"
+homepage = "https://unpin.co"
+repository = "https://github.com/mcmoodoo/headers-rs"
